@@ -1,0 +1,7 @@
+# requirements.txt
+aiohttp
+PyGithub
+Flask
+gunicorn
+python-dotenv
+requests
